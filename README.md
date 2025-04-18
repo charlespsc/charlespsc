@@ -9,6 +9,7 @@
   ##
   
 <div style="display: inline_block"><br>
+  <img align="center" alt="c" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="csharp" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="PHP" height="60" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Go" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
