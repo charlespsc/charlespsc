@@ -74,10 +74,10 @@
   <a href="https://www.linkedin.com/in/charlesp-sc" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:seu-email@exemplo.com">
+  <a href="mailto:charlesp.floripa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://discord.com/users/seu_id" target="_blank">
+  <a href="https://discord.com/users/718836811593678949" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
