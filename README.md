@@ -55,7 +55,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charlespsc&theme=dracula" alt="charlespsc" />
    <img src="https://github-profile-trophy.vercel.app/?username=charlespsc&theme=dracula" alt="charlespsc" />
 </p>
 
