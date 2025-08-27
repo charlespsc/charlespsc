@@ -54,10 +54,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlespsc&layout=compact&langs_count=8&theme=dracula&hide=html,css"/>
 </p>
 
-<p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=charlespsc&theme=dracula" alt="charlespsc" />
-</p>
-
 ---
 
 ## 🌟 Contribuições
